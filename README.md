@@ -19,3 +19,11 @@ or
 
 bundle exec guard
 
+---
+
+*For JS version*
+
+1. `cd kata_js`
+2. `yarn`
+
+Run test: `yarn test`
