@@ -31,3 +31,4 @@ For JS version
 # Test
 
 Run test: `yarn test`
+Run test (watch mode): `yarn test:watch`
