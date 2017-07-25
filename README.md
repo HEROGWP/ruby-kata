@@ -21,9 +21,13 @@ bundle exec guard
 
 ---
 
-*For JS version*
+For JS version
+
+# Setup
 
 1. `cd kata_js`
 2. `yarn`
+
+# Test
 
 Run test: `yarn test`
