@@ -36,6 +36,6 @@ describe 'Kata' do
   end
 
   it 'should convert 2014 to MMXIV' do
-    expect(roman.convert(2011)).to eq('MMXIV')
+    expect(roman.convert(2014)).to eq('MMXIV')
   end
 end
